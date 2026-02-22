@@ -1,4 +1,4 @@
-# Amazone-Cloan
-I'll Make Cloan of Amazone website
+# Amazone-Clone
+I'll Make Clone of Amazone website
 <br>
 Author-Suraj Shinde
